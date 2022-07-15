@@ -1,0 +1,24 @@
+SCS metric is: 0
+LCS metric is: 0
+levenshtein metric is: 0
+
+SCS metric is: 9
+LCS metric is: 9
+levenshtein metric is: 5
+
+SCS metric is: 2
+LCS metric is: 2
+levenshtein metric is: 1
+
+SCS metric is: 0
+LCS metric is: 0
+levenshtein metric is: 0
+
+SCS metric is: 5
+LCS metric is: 5
+levenshtein metric is: 3
+
+To conclude : We have 36strands
+The SCS average is:0.4444444444444444
+The LCS average is:0.4444444444444444
+The Levenstein average is:0.25
